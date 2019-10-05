@@ -8,7 +8,7 @@
 \f0\fs24 \cf0 .DS_Store\
 \
 # Compiled site\
-_site\
+# _site\
 .jekyll-cache/\
 \
 # Sass garbage\

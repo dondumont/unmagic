@@ -44,6 +44,7 @@ pagination:
   enabled: true
   per_page: 5
   permalink: "/page/:num/"
+  sort_reverse: true
 
 # Disqus comments
 # disqus_shortname: 
