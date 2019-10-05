@@ -40,16 +40,6 @@ pagination:
   per_page: 5
   permalink: "/page/:num/"
 
-# Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
-
 # Disqus comments
 # disqus_shortname: 
 
