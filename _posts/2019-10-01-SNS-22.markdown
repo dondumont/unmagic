@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Swig N' Sealed 22: Throne of Eldraine"
-date:   2019-10-01 08:43:59
-author: Unsanctioned Magic
-categories: Swig-N'-Sealed
----
-
-Time continues it's inexorible march. Will it turn your soft heart into a Wal-Mart or will you be transmuted into a powerful dragon?
