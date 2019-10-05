@@ -23,7 +23,7 @@ subtitle: "As above, so below."
 email: us@unsanctionedmagic.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bring your Magic into the real world.
-baseurl: "unmagic" # the subpath of your site, e.g. /blog
+baseurl: "/unmagic" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 cover: "/assets/header_image_dark.jpg"
 logo: "/assets/logo.svg"
