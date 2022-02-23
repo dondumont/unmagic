@@ -1,8 +1,8 @@
-const version = '20220213185534';
+const version = '20220222190106';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/swig-n'-sealed/2022/02/13/SNS-24.html","/news/2021/11/09/Were-Back-Update.html","/news/2020/06/12/Covid-Update.html","/news/2020/03/22/Virtual-FNMs.html","/drafts-and-draft/2020/03/19/Upcoming-Members-Only-Event.html","/swig-n'-sealed/2020/01/14/SNS-23.html","/drafts-and-draft/2019/12/01/Our-First-Invite-Only-Event.html","/swig-n'-sealed/2019/10/04/SNS-22.html","/news/2019/10/03/renewal-without-death.html","/about/","/calendar/","/discord/","/feed.xml","/css/main.css","/patreon/","/posts/","/assets/styles.css","/subscribe/","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/index.html","/page/2/index.html","/css/main.css.map","/assets/styles.css.map","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/swig-n'-sealed/2022/02/13/SNS25.html","/news/2021/11/09/Were-Back-Update.html","/swig-n'-sealed/2021/11/09/SNS-24.html","/news/2020/06/12/Covid-Update.html","/news/2020/03/22/Virtual-FNMs.html","/drafts-and-draft/2020/03/19/Upcoming-Members-Only-Event.html","/swig-n'-sealed/2020/01/14/SNS-23.html","/drafts-and-draft/2019/12/01/Our-First-Invite-Only-Event.html","/swig-n'-sealed/2019/10/04/SNS-22.html","/news/2019/10/03/renewal-without-death.html","/about/","/calendar/","/discord/","/feed.xml","/css/main.css","/patreon/","/posts/","/assets/styles.css","/subscribe/","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/index.html","/page/2/index.html","/css/main.css.map","/assets/styles.css.map","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
