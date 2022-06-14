@@ -5,9 +5,21 @@
     <description>As above, so below.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 May 2022 16:00:25 -0700</pubDate>
-    <lastBuildDate>Mon, 02 May 2022 16:00:25 -0700</lastBuildDate>
+    <pubDate>Mon, 13 Jun 2022 18:15:11 -0700</pubDate>
+    <lastBuildDate>Mon, 13 Jun 2022 18:15:11 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Drafts-and-Draft: Commander Legends Battle for Baldur's Gate</title>
+        <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Friday, June 24th, 2022 at 6:30 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; TBA&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Commander Legends Battle for Baldur’s Gate &lt;a href=&quot;https://magic.wizards.com/en/formats/booster-draft&quot;&gt;Draft&lt;/a&gt; (3 draft booster packs)&lt;br /&gt; &lt;b&gt;COVID...</description>
+        <pubDate>Mon, 13 Jun 2022 11:30:00 -0700</pubDate>
+        <link>http://localhost:4000/drafts-and-draft/2022/06/13/DND-CLB.html</link>
+        <guid isPermaLink="true">http://localhost:4000/drafts-and-draft/2022/06/13/DND-CLB.html</guid>
+        
+        
+        <category>Drafts-and-Draft</category>
+        
+      </item>
     
       <item>
         <title>Swig N' Sealed 26: Streets of New Capenna</title>
@@ -114,18 +126,6 @@
         
         
         <category>Swig-N'-Sealed</category>
-        
-      </item>
-    
-      <item>
-        <title>Our First Invite-Only Event</title>
-        <description>&lt;p&gt;Our early bird Patrons just received details on our first ever invite-only Unsanctioned Magic event! These Patrons will get to enjoy a free, hosted phantom Drafts and Draft in the...</description>
-        <pubDate>Sun, 01 Dec 2019 16:16:15 -0800</pubDate>
-        <link>http://localhost:4000/drafts-and-draft/2019/12/01/Our-First-Invite-Only-Event.html</link>
-        <guid isPermaLink="true">http://localhost:4000/drafts-and-draft/2019/12/01/Our-First-Invite-Only-Event.html</guid>
-        
-        
-        <category>Drafts-and-Draft</category>
         
       </item>
     
