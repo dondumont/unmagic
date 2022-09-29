@@ -5,9 +5,21 @@
     <description>As above, so below.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Jun 2022 18:15:11 -0700</pubDate>
-    <lastBuildDate>Mon, 13 Jun 2022 18:15:11 -0700</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 21:08:27 -0700</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 21:08:27 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Swig N' Sealed 27: Dominaria United</title>
+        <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, Octover 2nd, 2022 at 1 PM - 5 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; Apex 1216 SE Division St. Portland, Oregon 97202&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Dominaria United &lt;a href=&quot;https://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck&quot;&gt;Sealed&lt;/a&gt;...</description>
+        <pubDate>Wed, 28 Sep 2022 11:30:00 -0700</pubDate>
+        <link>http://localhost:4000/swig-n'-sealed/2022/09/28/SNS27.html</link>
+        <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2022/09/28/SNS27.html</guid>
+        
+        
+        <category>Swig-N'-Sealed</category>
+        
+      </item>
     
       <item>
         <title>Drafts-and-Draft: Commander Legends Battle for Baldur's Gate</title>
@@ -114,18 +126,6 @@
         
         
         <category>Drafts-and-Draft</category>
-        
-      </item>
-    
-      <item>
-        <title>Swig N' Sealed 23: Theros Beyond Death</title>
-        <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, February 16th, 2020 at 1 PM - 7PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; TBA&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Theros Beyond Death &lt;a href=&quot;https://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck&quot;&gt;Sealed&lt;/a&gt; (6 packs)&lt;br /&gt; &lt;a href=&quot;https://www.facebook.com/events/791446091341315/&quot;&gt;&lt;b&gt;RSVP on Facebook&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;...</description>
-        <pubDate>Tue, 14 Jan 2020 11:30:00 -0800</pubDate>
-        <link>http://localhost:4000/swig-n'-sealed/2020/01/14/SNS-23.html</link>
-        <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2020/01/14/SNS-23.html</guid>
-        
-        
-        <category>Swig-N'-Sealed</category>
         
       </item>
     
