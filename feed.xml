@@ -5,13 +5,25 @@
     <description>As above, so below.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Sep 2022 21:08:27 -0700</pubDate>
-    <lastBuildDate>Wed, 28 Sep 2022 21:08:27 -0700</lastBuildDate>
+    <pubDate>Mon, 28 Nov 2022 21:59:19 -0800</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2022 21:59:19 -0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
+        <title>Swig N' Sealed 28: The Brothers' War</title>
+        <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, December 4th, 2022 at 1 PM - 6 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; Lucky Lab, 915 SE Hawthorne Blvd, Portland, OR 97202&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; The Brothers’ War...</description>
+        <pubDate>Mon, 28 Nov 2022 10:30:00 -0800</pubDate>
+        <link>http://localhost:4000/swig-n'-sealed/2022/11/28/SNS28.html</link>
+        <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2022/11/28/SNS28.html</guid>
+        
+        
+        <category>Swig-N'-Sealed</category>
+        
+      </item>
+    
+      <item>
         <title>Swig N' Sealed 27: Dominaria United</title>
-        <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, Octover 2nd, 2022 at 1 PM - 5 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; Apex 1216 SE Division St. Portland, Oregon 97202&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Dominaria United &lt;a href=&quot;https://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck&quot;&gt;Sealed&lt;/a&gt;...</description>
+        <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, October 2nd, 2022 at 1 PM - 5 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; Apex 1216 SE Division St. Portland, Oregon 97202&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Dominaria United &lt;a href=&quot;https://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck&quot;&gt;Sealed&lt;/a&gt;...</description>
         <pubDate>Wed, 28 Sep 2022 11:30:00 -0700</pubDate>
         <link>http://localhost:4000/swig-n'-sealed/2022/09/28/SNS27.html</link>
         <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2022/09/28/SNS27.html</guid>
@@ -114,18 +126,6 @@
         
         
         <category>News</category>
-        
-      </item>
-    
-      <item>
-        <title>*Canceled* Upcoming Cult Members Only Event</title>
-        <description>&lt;p&gt;For the safety of everyone, this event and all upcoming events are suspended until further notice. We’ll miss you like the deserts miss the rains but we look forward to...</description>
-        <pubDate>Thu, 19 Mar 2020 15:05:15 -0700</pubDate>
-        <link>http://localhost:4000/drafts-and-draft/2020/03/19/Upcoming-Members-Only-Event.html</link>
-        <guid isPermaLink="true">http://localhost:4000/drafts-and-draft/2020/03/19/Upcoming-Members-Only-Event.html</guid>
-        
-        
-        <category>Drafts-and-Draft</category>
         
       </item>
     
