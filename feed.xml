@@ -5,36 +5,48 @@
     <description>As above, so below.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2022 21:59:19 -0800</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2022 21:59:19 -0800</lastBuildDate>
+    <pubDate>Wed, 01 Mar 2023 21:23:44 -0800</pubDate>
+    <lastBuildDate>Wed, 01 Mar 2023 21:23:44 -0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
-        <title>Swig N' Sealed 28: The Brothers' War</title>
+        <title>Swig N&apos; Sealed 29: All Will Be One</title>
+        <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, March 12th, 2023 at 1 PM - 6 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; TBA&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; All Will Be One &lt;a href=&quot;https://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck&quot;&gt;Sealed&lt;/a&gt; (6 draft booster packs)&lt;br /&gt;...</description>
+        <pubDate>Wed, 01 Mar 2023 10:30:00 -0800</pubDate>
+        <link>http://localhost:4000/swig-n'-sealed/2023/03/01/SNS29.html</link>
+        <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2023/03/01/SNS29.html</guid>
+        
+        
+        <category>Swig-N&apos;-Sealed</category>
+        
+      </item>
+    
+      <item>
+        <title>Swig N&apos; Sealed 28: The Brothers&apos; War</title>
         <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, December 4th, 2022 at 1 PM - 6 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; Lucky Lab, 915 SE Hawthorne Blvd, Portland, OR 97202&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; The Brothers’ War...</description>
         <pubDate>Mon, 28 Nov 2022 10:30:00 -0800</pubDate>
         <link>http://localhost:4000/swig-n'-sealed/2022/11/28/SNS28.html</link>
         <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2022/11/28/SNS28.html</guid>
         
         
-        <category>Swig-N'-Sealed</category>
+        <category>Swig-N&apos;-Sealed</category>
         
       </item>
     
       <item>
-        <title>Swig N' Sealed 27: Dominaria United</title>
+        <title>Swig N&apos; Sealed 27: Dominaria United</title>
         <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, October 2nd, 2022 at 1 PM - 5 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; Apex 1216 SE Division St. Portland, Oregon 97202&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Dominaria United &lt;a href=&quot;https://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck&quot;&gt;Sealed&lt;/a&gt;...</description>
         <pubDate>Wed, 28 Sep 2022 11:30:00 -0700</pubDate>
         <link>http://localhost:4000/swig-n'-sealed/2022/09/28/SNS27.html</link>
         <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2022/09/28/SNS27.html</guid>
         
         
-        <category>Swig-N'-Sealed</category>
+        <category>Swig-N&apos;-Sealed</category>
         
       </item>
     
       <item>
-        <title>Drafts-and-Draft: Commander Legends Battle for Baldur's Gate</title>
+        <title>Drafts-and-Draft: Commander Legends Battle for Baldur&apos;s Gate</title>
         <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Friday, June 24th, 2022 at 6:30 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; TBA&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Commander Legends Battle for Baldur’s Gate &lt;a href=&quot;https://magic.wizards.com/en/formats/booster-draft&quot;&gt;Draft&lt;/a&gt; (3 draft booster packs)&lt;br /&gt; &lt;b&gt;COVID...</description>
         <pubDate>Mon, 13 Jun 2022 11:30:00 -0700</pubDate>
         <link>http://localhost:4000/drafts-and-draft/2022/06/13/DND-CLB.html</link>
@@ -46,20 +58,20 @@
       </item>
     
       <item>
-        <title>Swig N' Sealed 26: Streets of New Capenna</title>
+        <title>Swig N&apos; Sealed 26: Streets of New Capenna</title>
         <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, May 29th, 2022 at 1 PM - 5 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; TBA&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Streets of New Capenna &lt;a href=&quot;https://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck&quot;&gt;Sealed&lt;/a&gt; (6 draft booster packs)&lt;br /&gt;...</description>
         <pubDate>Mon, 02 May 2022 11:30:00 -0700</pubDate>
         <link>http://localhost:4000/swig-n'-sealed/2022/05/02/SNS26.html</link>
         <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2022/05/02/SNS26.html</guid>
         
         
-        <category>Swig-N'-Sealed</category>
+        <category>Swig-N&apos;-Sealed</category>
         
       </item>
     
       <item>
         <title>State of Disorganized Play 02.22</title>
-        <description>&lt;h1&gt;Changes to Swig N' Sealed!&lt;/h1&gt; &lt;p&gt;Who doesn’t love change? Change is the biggest reason we became a wizard. Now we can transform almost anything we want into a change machine,...</description>
+        <description>&lt;h1&gt;Changes to Swig N&apos; Sealed!&lt;/h1&gt; &lt;p&gt;Who doesn’t love change? Change is the biggest reason we became a wizard. Now we can transform almost anything we want into a change machine,...</description>
         <pubDate>Tue, 22 Feb 2022 11:25:00 -0800</pubDate>
         <link>http://localhost:4000/news/2022/02/22/state-of-disorganized-play-1.html</link>
         <guid isPermaLink="true">http://localhost:4000/news/2022/02/22/state-of-disorganized-play-1.html</guid>
@@ -70,19 +82,19 @@
       </item>
     
       <item>
-        <title>Swig N' Sealed 25: Kamigawa Neon Dynasty</title>
+        <title>Swig N&apos; Sealed 25: Kamigawa Neon Dynasty</title>
         <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, March 13th, 2022 at 1 PM - 5 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; Great Notion Alberta - 2204 NE Alberta, PDX&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Kamigawa Neon Dynasty &lt;a...</description>
         <pubDate>Sun, 13 Feb 2022 10:30:00 -0800</pubDate>
         <link>http://localhost:4000/swig-n'-sealed/2022/02/13/SNS25.html</link>
         <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2022/02/13/SNS25.html</guid>
         
         
-        <category>Swig-N'-Sealed</category>
+        <category>Swig-N&apos;-Sealed</category>
         
       </item>
     
       <item>
-        <title>Update: We're Back!</title>
+        <title>Update: We&apos;re Back!</title>
         <description>&lt;p&gt;The ancient Chimes of Truth have sounded loud and clear from our most recent ambergris induced waking dream state. This can mean only one thing. It’s time to begin again!...</description>
         <pubDate>Tue, 09 Nov 2021 11:25:00 -0800</pubDate>
         <link>http://localhost:4000/news/2021/11/09/Were-Back-Update.html</link>
@@ -94,14 +106,14 @@
       </item>
     
       <item>
-        <title>Swig N' Sealed 24: Innistrad Crimson Vow</title>
+        <title>Swig N&apos; Sealed 24: Innistrad Crimson Vow</title>
         <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, December 12th, 2021 at 1 PM - 5 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; Lucky Labrador Brewing Company, 915 SE Hawthorne Blvd, Portland, OR&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Innistrad Crimson...</description>
         <pubDate>Tue, 09 Nov 2021 10:30:00 -0800</pubDate>
         <link>http://localhost:4000/swig-n'-sealed/2021/11/09/SNS-24.html</link>
         <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2021/11/09/SNS-24.html</guid>
         
         
-        <category>Swig-N'-Sealed</category>
+        <category>Swig-N&apos;-Sealed</category>
         
       </item>
     
@@ -111,18 +123,6 @@
         <pubDate>Fri, 12 Jun 2020 16:05:15 -0700</pubDate>
         <link>http://localhost:4000/news/2020/06/12/Covid-Update.html</link>
         <guid isPermaLink="true">http://localhost:4000/news/2020/06/12/Covid-Update.html</guid>
-        
-        
-        <category>News</category>
-        
-      </item>
-    
-      <item>
-        <title>Maintain your edge with Virtual FNMs</title>
-        <description>&lt;p&gt;If there was a future it would be now! However, for those of us with The True Sight, we all know that time is just an illusion. We are not...</description>
-        <pubDate>Sun, 22 Mar 2020 18:05:15 -0700</pubDate>
-        <link>http://localhost:4000/news/2020/03/22/Virtual-FNMs.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2020/03/22/Virtual-FNMs.html</guid>
         
         
         <category>News</category>
