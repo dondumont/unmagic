@@ -1,8 +1,8 @@
-const version = '20230726164822';
+const version = '20230812160725';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/swig-n'-sealed/2023/07/26/SNS31.html","/swig-n'-sealed/2023/03/01/SNS29.html","/swig-n'-sealed/2022/11/28/SNS28.html","/swig-n'-sealed/2022/09/28/SNS27.html","/drafts-and-draft/2022/06/13/DND-CLB.html","/swig-n'-sealed/2022/05/02/SNS26.html","/news/2022/02/22/state-of-disorganized-play-1.html","/swig-n'-sealed/2022/02/13/SNS25.html","/news/2021/11/09/Were-Back-Update.html","/swig-n'-sealed/2021/11/09/SNS-24.html","/about/","/calendar/","/discord/","/feed.xml","/css/main.css","/patreon/","/posts/","/assets/styles.css","/subscribe/","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/index.html","/page/2/index.html","/page/3/index.html","/page/4/index.html","/css/main.css.map","/assets/styles.css.map","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/swig-n'-sealed/2023/07/26/SNS32.html","/swig-n'-sealed/2023/07/26/SNS31.html","/swig-n'-sealed/2023/03/01/SNS29.html","/swig-n'-sealed/2022/11/28/SNS28.html","/swig-n'-sealed/2022/09/28/SNS27.html","/drafts-and-draft/2022/06/13/DND-CLB.html","/swig-n'-sealed/2022/05/02/SNS26.html","/news/2022/02/22/state-of-disorganized-play-1.html","/swig-n'-sealed/2022/02/13/SNS25.html","/news/2021/11/09/Were-Back-Update.html","/about/","/calendar/","/discord/","/feed.xml","/css/main.css","/patreon/","/posts/","/assets/styles.css","/subscribe/","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/index.html","/page/2/index.html","/page/3/index.html","/page/4/index.html","/css/main.css.map","/assets/styles.css.map","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
