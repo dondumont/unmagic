@@ -5,9 +5,21 @@
     <description>As above, so below.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Feb 2024 12:39:35 -0800</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 12:39:35 -0800</lastBuildDate>
+    <pubDate>Wed, 03 Apr 2024 18:02:30 -0700</pubDate>
+    <lastBuildDate>Wed, 03 Apr 2024 18:02:30 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Swig N&apos; Sealed 35: Outlaws of Thunder Junction</title>
+        <description>&lt;p&gt;&lt;b&gt;Date &amp;amp; Time:&lt;/b&gt; Sunday, February 11th, 2024 at 1 PM - 6 PM&lt;br /&gt; &lt;b&gt;Starting Location:&lt;/b&gt; TBA&lt;br /&gt; &lt;b&gt;Format:&lt;/b&gt; Outlaws of Thunder Junction &lt;a href=&quot;https://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck&quot;&gt;Sealed&lt;/a&gt; (6 play booster packs)&lt;br /&gt;...</description>
+        <pubDate>Mon, 15 Jan 2024 10:30:00 -0800</pubDate>
+        <link>http://localhost:4000/swig-n'-sealed/2024/01/15/SNS35.html</link>
+        <guid isPermaLink="true">http://localhost:4000/swig-n'-sealed/2024/01/15/SNS35.html</guid>
+        
+        
+        <category>Swig-N&apos;-Sealed</category>
+        
+      </item>
     
       <item>
         <title>Swig N&apos; Sealed 34: Murders At Karlov Manor</title>
@@ -114,18 +126,6 @@
         
         
         <category>Swig-N&apos;-Sealed</category>
-        
-      </item>
-    
-      <item>
-        <title>State of Disorganized Play 02.22</title>
-        <description>&lt;h1&gt;Changes to Swig N&apos; Sealed!&lt;/h1&gt; &lt;p&gt;Who doesn’t love change? Change is the biggest reason we became a wizard. Now we can transform almost anything we want into a change machine,...</description>
-        <pubDate>Tue, 22 Feb 2022 11:25:00 -0800</pubDate>
-        <link>http://localhost:4000/news/2022/02/22/state-of-disorganized-play-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2022/02/22/state-of-disorganized-play-1.html</guid>
-        
-        
-        <category>News</category>
         
       </item>
     
